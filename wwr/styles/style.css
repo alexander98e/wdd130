@@ -1,0 +1,154 @@
+p {
+    width: 1000px;
+}
+div {   
+    max-width: 1250px;
+    height: 120px;
+  
+  }
+  p {
+    margin: 0 auto;
+  }
+  div.a {
+    text-align: center;
+  }
+  
+  div.b {
+    text-align: left;
+  }
+  
+  div.c {
+    text-align: right;
+  }
+  
+  div.c {
+    text-align: justify;
+  }
+  #background {
+    height: px 725;
+}
+body {
+    background-color: #ffffff; 
+}
+header {
+    background-color:rgba(64, 102, 35, 0.455);
+}
+nav a:hover {
+    background-color: rgba(57, 73, 65, 0.425);
+}
+.book, .join{
+    background-color: #0bc55840; 
+}
+.book:hover, .join:hover{
+    background-color: #41574699; 
+}
+#background{
+    background-color: #1e4b327e; 
+}
+.msg{
+    background-color: #3373465f; 
+}
+footer {
+    background-color: #41643544; 
+}              
+h1 {
+    font-size: 10px;
+  }
+  
+  h2 {
+    font-size: 10px;
+  }
+  
+  p {
+    font-size: 10px;
+  }
+  title{
+    font-size: 5px;
+  }
+  a{
+    font-size: 10px;
+  }
+  h4{
+    font-size: 10px;
+  }
+  nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+} 
+footer p a:hover{
+    background-color: black;
+    color: #d9c2a3;
+} 
+section a:hover{
+    background-color: rgba(0, 0, 0, 0.11);
+    color: #d9c2a3;
+} 
+.icon {
+    width: 43px;
+}
+.logo {
+    width: 120px;
+}
+#hero-img {
+    width: 100px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+.book, .join{
+    text-align: center;
+    color: #10210f;
+    text-decoration: none;
+}    
+footer a{
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+} footer p a:hover {
+    text-decoration: underline;
+}  
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+nav a  {
+
+    text-align: center;
+    
+    }
+nav a {
+
+        text-align: center;
+        
+        }
+#hero-msg h1, #hero-msg h4 {
+
+    text-align: center;
+    
+    }
+.button-box {
+
+    text-align: center;
+    
+    }
+main section {
+
+    text-align: center;
+    
+    }
+div div {
+
+    text-align: center;
+    
+    }
+div div img {  
+    width: 200;
+    height: 200; 
+    }  
