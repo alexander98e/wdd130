@@ -1,13 +1,13 @@
 @import;
 
 .home-title {
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Rock Salt', 'Bradley Hand','Verdana', sans-serif;
     font-size: 3em;
     margin-top: 50px;
 }
 
 .book, .join{
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Rock Salt', 'Bradley Hand', 'Verdana',sans-serif;
     font-size: 2em;
     margin-top: 50px;
     border-radius: 5px;
@@ -20,7 +20,7 @@ main section img {
     box-sizing: border-box;
 }
 .msg p {
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Rock Salt', 'Bradley Hand','Verdana', sans-serif;
     font-size: 1em;
 }
 #content {   
@@ -196,7 +196,7 @@ div div img.mountains{
 }
 body {
     background-color: #fcfbfb;
-    font-family: Raleway, Arial, sans-serif;
+    font-family: Raleway, Arial, Verdana, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
