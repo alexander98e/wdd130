@@ -12,7 +12,7 @@
     margin-top: 50px;
     border-radius: 5px;
 }
-}
+
 .card-img {
     border: 10px solid #d9c2a3;
 }
@@ -23,9 +23,9 @@ main section img {
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 1em;
 }
-div {   
-    max-width: 1250px;
-    height: 200px;
+#content {   
+    max-width: 1600px;
+    margin: 0 auto;
   }
   
   p {
@@ -117,7 +117,7 @@ div div img {
     height: auto;
   }
 .logo {
-    width: 120px;
+    width: 80px;
 }
 #hero-img {
     max-width: 100%;
@@ -187,11 +187,11 @@ div div {
     
     }
 div div img {  
-    width: 100;
+    width: 80;
     height: 100; 
 }  
 div div img.mountains{
-    width: 100;
+    width: 80;
     height: 100;
 }
 body {
